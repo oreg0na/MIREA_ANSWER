@@ -1,3 +1,6 @@
+# 1.3. Элементарный калькулятор
+
+```cpp
 #include <iostream>
 using namespace std;
 int main()
@@ -20,3 +23,4 @@ int main()
 	}
 	return 0;
 }
+```

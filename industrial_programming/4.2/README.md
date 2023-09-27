@@ -1,3 +1,6 @@
+# 4.2. Попей глицина
+
+```cpp
 #include <iostream>
 #include <vector>
 #include <string>
@@ -26,3 +29,4 @@ int main() {
 	}
 	std::cout << sequence;
 }
+```

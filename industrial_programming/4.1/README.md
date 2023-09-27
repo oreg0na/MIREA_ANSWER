@@ -1,3 +1,6 @@
+# 4.1. Два комика
+
+```cpp
 #include <iostream>
 #include <algorithm>
 #include <string>
@@ -14,3 +17,4 @@ int main() {
 		std::cout << "no";
 	}
 }
+```

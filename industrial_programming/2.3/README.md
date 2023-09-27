@@ -1,3 +1,6 @@
+# 2.3. Раскулачивание
+
+```cpp
 #include <iostream>
 #include <vector>
 
@@ -20,3 +23,4 @@ int main() {
 	}
 	cout << result << endl;
 }
+```

@@ -1,3 +1,6 @@
+# 4.3. Чем я занимаюсь?
+
+```cpp
 #include <fstream>
 #include <iostream>
 #include <string>
@@ -39,3 +42,4 @@ int main() {
 		index += 1;
 	}
 }
+```

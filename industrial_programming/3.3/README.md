@@ -1,3 +1,6 @@
+# 3.3. По грибы
+
+```cpp
 #include <iostream>
 #include <vector>
 
@@ -48,3 +51,4 @@ int main() {
 		cout << endl;
 	}
 }
+```

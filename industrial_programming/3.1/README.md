@@ -1,3 +1,6 @@
+# 3.1. Пропускать не хорошо
+
+```cpp
 #include <iostream>
 #include <vector>
 
@@ -48,3 +51,4 @@ int main() {
 
 	cout << result << endl;
 }
+```

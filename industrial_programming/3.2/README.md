@@ -1,3 +1,6 @@
+# 3.2. Кто-то рэп читал, кто-то рисовал граффити
+
+```cpp
 #include <iostream>
 #include <vector>
 
@@ -34,3 +37,4 @@ int main() {
 
 	cout << matrix;
 }
+```
