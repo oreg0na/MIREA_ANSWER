@@ -1,3 +1,6 @@
+# Задание 1.1
+
+```py
 def binary_search(mass: list, key: int) -> int:
     low, high = 0, len(mass) - 1
     while low <= high:
@@ -10,3 +13,4 @@ def binary_search(mass: list, key: int) -> int:
         if mass[i] < key and mass[i + 1] > key: 
             mass.insert(i + 1, key)
             return i
+```

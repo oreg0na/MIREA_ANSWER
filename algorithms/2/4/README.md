@@ -1,3 +1,8 @@
+# Задание 4
+
+### Только для C++20
+
+```cpp
 #include <iostream>
 #include <vector>
 #include <math.h>
@@ -35,3 +40,4 @@ int main() {
 		std::cout << "Number not come not condition";
 	}
 }
+```

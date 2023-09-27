@@ -1,3 +1,6 @@
+# Задание 1.2
+
+```py
 def binary_search(mass: list, key: int) -> int:
     low, high = 0, len(mass) - 1
     while low <= high:
@@ -19,3 +22,4 @@ def is_mountain(mass: list) -> bool:
 mass = [1, 3, 2, 5, 9, 8]
 isMountain = is_mountain(mass)
 print(isMountain)
+```

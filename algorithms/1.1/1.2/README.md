@@ -1,3 +1,6 @@
+# Задание 1.2
+
+```py
 def f(number: int) -> int:
     return number ** 5 - number - 0.2
 x1, x2, x3 = 0, 16, 0
@@ -9,3 +12,4 @@ while 1:
     if (f(x3) < 0): x1 = x3
     else: x2 = x3
 print(x3)
+```
