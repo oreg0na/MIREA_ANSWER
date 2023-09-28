@@ -1,9 +1,6 @@
-# 2.2. Заработок в интернете
-
-```cpp
 #include <iostream>
 
-using namespace std;s
+using namespace std;
 
 int main() {
     int a, b;
@@ -19,4 +16,3 @@ int main() {
     }
     return 0;
 }
-```
