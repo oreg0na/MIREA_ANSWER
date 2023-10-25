@@ -1,6 +1,6 @@
 # 10.2. Случайности не случайны
 
-cpp ```
+``` cpp
 #include <iostream>
 #include <random>
 #include <ranges>
