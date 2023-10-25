@@ -1,9 +1,6 @@
 # MIREA
 
-
-# Dev
-## oreg0na, micmaclaynd
-
+# Dev -  oreg0na, micmaclaynd
 
 ## Инструменты 🛠
 ![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)
