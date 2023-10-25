@@ -1,4 +1,4 @@
-# Mirea
+# MIREA
 
 # Test message
 
